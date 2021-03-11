@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>hello git</h1>
+	<p>폐기의 단축기(ctrl+shift+R) => 커밋하기전에서 변경내용 취소</p>
 </body>
 </html>
