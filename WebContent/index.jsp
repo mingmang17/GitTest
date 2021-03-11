@@ -9,5 +9,9 @@
 <body>
 	<h1>hello git</h1>
 	<p>폐기의 단축기(ctrl+shift+R) => 커밋하기전에서 변경내용 취소</p>
+	<p>커밋후 처리 방법</p>
+	<ul>
+		<li>1.브랜치 초기화 : 특정위치로 되돌림(hard : 폐기/mixed : unstaging /soft :staging)</li>
+	</ul>
 </body>
 </html>
